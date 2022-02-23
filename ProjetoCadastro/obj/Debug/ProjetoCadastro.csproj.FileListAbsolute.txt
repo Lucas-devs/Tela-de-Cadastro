@@ -1,0 +1,10 @@
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe.config
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.exe
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\bin\Debug\ProjetoCadastro.pdb
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csprojAssemblyReference.cache
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Form1.resources
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.Properties.Resources.resources
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.GenerateResource.cache
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.exe
+C:\Users\Pc Gamer\source\repos\ProjetoCadastro\ProjetoCadastro\obj\Debug\ProjetoCadastro.pdb
